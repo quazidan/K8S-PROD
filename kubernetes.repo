@@ -1,0 +1,7 @@
+[pyr_centos7_k8s]
+baseurl=https://releaserepo1.pokerstars.com/centos7/pyr_centos7_k8s
+gpgkey=https://releaserepo1.pokerstars.com/centos7/pyr_centos7_k8s/rpm-package-key.gpg
+       https://releaserepo1.pokerstars.com/centos7/pyr_centos7_k8s/yum-key.gpg
+gpgcheck=1
+name=pyr_centos7_k8s
+enabled=1
